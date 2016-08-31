@@ -2,6 +2,7 @@ name: HeadStart
 favicon: null
 layout_spectrum: 0.3293063042219728
 typography_spectrum: 0.31495086569339037
+title: 'Brain Training '
 cta:
   domain: null
   bucket: null
