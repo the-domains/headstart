@@ -1,0 +1,28 @@
+name: HeadStart
+favicon: null
+layout_spectrum: 0.3293063042219728
+typography_spectrum: 0.31495086569339037
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#03010c'
+    - '#2c435f'
+    - '#b0dfd3'
+    - '#5d8eae'
+    - '#80bdc8'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.25
+  rhythmicContrast: 1
+purpose: []
