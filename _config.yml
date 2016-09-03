@@ -1,8 +1,7 @@
 name: HeadStart
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.3293063042219728
 typography_spectrum: 0.31495086569339037
-title: 'Brain Training '
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#070200'
-    - '#fac503'
-    - '#413182'
-    - '#c6792a'
-    - '#add7de'
-  brandStrength: 0.5
-  lightness: 0.875
-  saturation: 0.25
-  rhythmicContrast: 1
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4841549505945295
+  lightness: 0.2411585331428796
+  saturation: 0.06593368481844664
+  rhythmicContrast: 0.8424410361330956
 purpose: []
